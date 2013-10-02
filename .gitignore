@@ -1,13 +1,6 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
+*.suo
+OnscreenKeyboard/Release/*.pdb
+OnscreenKeyboard/OnscreenKeyboard/Release/*.*
+OnscreenKeyboard/Debug/*.*
+OnscreenKeyboard/OnscreenKeyboard/Debug/*.*
+*.user
